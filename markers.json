@@ -1,0 +1,10 @@
+[
+  {"zachod1": [
+    {"sourandice" : "50°5'0.511\"N 14°27'25.039\"E"},
+    {"isPaid" : true}
+]},
+  {"zachod2": [
+    {"sourandice" : "50°4'31.412\"N 14°25'33.571\"E"},
+    {"isPaid" : true}
+]}
+]
